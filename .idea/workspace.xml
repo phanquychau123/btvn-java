@@ -5,19 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2b905f31-82c9-448f-986c-455ac743c1cf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/btvn.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bt1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bt2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bt3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bt4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bt5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bt6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bt7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/btvnbai2/bai1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/btvnbai2/bai2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/btvnbai2/bai3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/btvnbai2/bai4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/btvnbai2/bai5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/btvnbai2/bai6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/btvnbai2/bai7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/btvnbai2/bai8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bt1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/btvnbai1/bt1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bt2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/btvnbai1/bt2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bt3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/btvnbai1/bt3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bt4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/btvnbai1/bt4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bt5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/btvnbai1/bt5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bt6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/btvnbai1/bt6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bt7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/btvnbai1/bt7.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,12 +52,16 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/phanchau/Desktop/ btvn java&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;onboarding.tips.debug.path&quot;: &quot;/Users/phanchau/Desktop/idea/btvn/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -67,6 +75,10 @@
       <updated>1697367909284</updated>
       <workItem from="1697367910283" duration="4054000" />
       <workItem from="1697379413913" duration="9060000" />
+      <workItem from="1697461988079" duration="4259000" />
+      <workItem from="1697604910107" duration="1871000" />
+      <workItem from="1697606816684" duration="1665000" />
+      <workItem from="1697675955335" duration="3566000" />
     </task>
     <servers />
   </component>
