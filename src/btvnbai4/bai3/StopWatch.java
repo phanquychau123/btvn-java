@@ -3,23 +3,31 @@ package btvnbai4.bai3;
 import java.util.Date;
 
     public class StopWatch {
-        private Date startTime, endTime;
+        private long startTime;
+        private long endTime;
 
-        public Date getStartTime() {
+        public StopWatch() {
+            startTime = System.currentTimeMillis();
+        }
+
+        public void start() {
+            startTime = System.currentTimeMillis();
+        }
+
+        public void stop() {
+            endTime = System.currentTimeMillis();
+        }
+
+        public long getElapsedTime() {
+            return endTime - startTime;
+        }
+
+        public long getStartTime() {
             return startTime;
         }
-        public Date getEndTime() {
+
+        public long getEndTime() {
             return endTime;
-        }
-        public StopWatch(){};
-        public void start(){
-            startTime = new Date();
-        }
-        public void end(){
-            endTime = new Date();
-        }
-        public long getElapsedTime(){
-            return endTime.getTime() - startTime.getTime();
         }
 
     }

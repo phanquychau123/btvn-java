@@ -4,31 +4,38 @@ import java.util.Random;
 
 public class Main {
     public static void main(String[] args) {
+        StopWatch stopwatch = new StopWatch();
+
+        // Thực hiện thuật toán sắp xếp chọn cho một mảng 100,000 số ngẫu nhiên
         int[] arr = new int[100000];
-        Random random = new Random();
-        for(int i = 0 ; i < arr.length;i++){
-            arr[i] = random.nextInt(100000);
+        for (int i = 0; i < arr.length; i++) {
+            arr[i] = (int) (Math.random() * 100000);
         }
-        StopWatch stopWatch = new StopWatch();
-        stopWatch.start();
-        int[] sortedArr = selectionSort(arr);
-        stopWatch.end();
-        long elapsedTime = stopWatch.getElapsedTime();
-        System.out.println("Thời gian thực thi của thuật toán sắp xếp chon (selection sort) cho 100000 số là: " + elapsedTime + " milisecond giây");
+
+        stopwatch.start();
+        selectionSort(arr);
+        stopwatch.stop();
+
+        long elapsedTime = stopwatch.getElapsedTime();
+        System.out.println("Thời gian thực thi của thuật toán sắp xếp chọn: " + elapsedTime + " ms");
     }
-    public static int[] selectionSort(int[] arr){
-        for(int i = 0 ; i < arr.length -1 ; i++){
-            int min = arr[i];
-            for(int j = i+1 ; j < arr.length -1;j++){
-                if(arr[j]<arr[min]){
-                    min = j;
+
+    // Phương thức sắp xếp chọn (selection sort)
+    public static void selectionSort(int[] arr) {
+        int n = arr.length;
+
+        for (int i = 0; i < n - 1; i++) {
+            int minIndex = i;
+            for (int j = i + 1; j < n; j++) {
+                if (arr[j] < arr[minIndex]) {
+                    minIndex = j;
                 }
             }
-            int temp = arr[min];
-            arr[min] = arr[i];
-            arr[i] = temp;
+
+            int temp = arr[i];
+            arr[i] = arr[minIndex];
+            arr[minIndex] = temp;
         }
-        return arr;
     }
 
 }

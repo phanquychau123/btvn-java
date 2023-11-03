@@ -5,16 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2b905f31-82c9-448f-986c-455ac743c1cf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/btvnbai4/bai1/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/btvnbai4/bai1/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/btvnbai4/bai2/QuadraticEquation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/btvnbai4/bai2/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/btvnbai4/bai3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/btvnbai4/bai3/StopWatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/btvnbai4/bai4/Fan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/btvnbai4/bai4/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/btvnbai3/phan2/bai15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/btvnbai3/phan2/bai15.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/btvnbai4/bai3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/btvnbai4/bai3/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/btvnbai4/bai3/StopWatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/btvnbai4/bai3/StopWatch.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +75,7 @@
       <workItem from="1698845417761" duration="93000" />
       <workItem from="1698845528314" duration="35000" />
       <workItem from="1698845576658" duration="2202000" />
-      <workItem from="1698977917913" duration="5638000" />
+      <workItem from="1698977917913" duration="6312000" />
     </task>
     <servers />
   </component>
