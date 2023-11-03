@@ -5,30 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2b905f31-82c9-448f-986c-455ac743c1cf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/btvnbai2/btlt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/btvnbai3/bai1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/btvnbai3/bai2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/btvnbai3/bai3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/btvnbai3/bai4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/btvnbai3/bai5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/btvnbai3/bai6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/btvnbai3/bai7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/btvnbai3/bai8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/btvnbai3/bai9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/btvnbai3/phan2/bai1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/btvnbai3/phan2/bai10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/btvnbai3/phan2/bai11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/btvnbai3/phan2/bai12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/btvnbai3/phan2/bai13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/btvnbai3/phan2/bai2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/btvnbai3/phan2/bai3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/btvnbai3/phan2/bai4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/btvnbai3/phan2/bai5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/btvnbai3/phan2/bai6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/btvnbai3/phan2/bai7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/btvnbai3/phan2/bai8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/btvnbai3/phan2/bai9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/btvnbai4/bai1/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/btvnbai4/bai1/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/btvnbai4/bai2/QuadraticEquation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/btvnbai4/bai2/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/btvnbai4/bai3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/btvnbai4/bai3/StopWatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/btvnbai4/bai4/Fan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/btvnbai4/bai4/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/btvnbai3/phan2/bai15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/btvnbai3/phan2/bai15.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +76,14 @@
       <workItem from="1697801954790" duration="1569000" />
       <workItem from="1698021716899" duration="645000" />
       <workItem from="1698022962490" duration="25776000" />
-      <workItem from="1698572873567" duration="3270000" />
+      <workItem from="1698572873567" duration="5204000" />
+      <workItem from="1698839205178" duration="8000" />
+      <workItem from="1698843437059" duration="600000" />
+      <workItem from="1698845261374" duration="146000" />
+      <workItem from="1698845417761" duration="93000" />
+      <workItem from="1698845528314" duration="35000" />
+      <workItem from="1698845576658" duration="2202000" />
+      <workItem from="1698977917913" duration="5638000" />
     </task>
     <servers />
   </component>
