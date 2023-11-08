@@ -1,4 +1,4 @@
-package btvnbai7;
+package btvnbai7.bt.bai4;
 
 import java.util.Scanner;
 

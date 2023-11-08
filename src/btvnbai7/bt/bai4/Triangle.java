@@ -1,4 +1,4 @@
-package btvnbai7;
+package btvnbai7.bt.bai4;
 
 public class Triangle extends Shape {
     private double side1;
