@@ -5,11 +5,37 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2b905f31-82c9-448f-986c-455ac743c1cf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/btvnbai9/bt/bai1/RandomList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/btvnbai9/bt/bai15/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/btvnbai9/bt/bai15/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/btvnbai9/bt/bai15/StudentManagement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/btvnbai10/FootballTeam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/btvnbai10/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/btvnbai9/bt/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/btvnbai9/bt/bai1/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/btvnbai9/bt/bai3/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/btvnbai7/bt/bai1/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/btvnbai6/bt/bai1/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/btvnbai7/bt/bai1/Cylinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/btvnbai6/bt/bai1/Cylinder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/btvnbai7/bt/bai1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/btvnbai6/bt/bai1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/btvnbai7/bt/bai3/MoveablePoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/btvnbai6/bt/bai3/MoveablePoint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/btvnbai7/bt/bai3/Point.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/btvnbai6/bt/bai3/Point.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/btvnbai7/bt/bai4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/btvnbai6/bt/bai4/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/btvnbai7/bt/bai4/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/btvnbai6/bt/bai4/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/btvnbai7/bt/bai4/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/btvnbai6/bt/bai4/Triangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/btvnbai8/bt/bai3/bai2/Colorable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/btvnbai7/bt/bai3/bai2/Colorable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/btvnbai8/bt/bai3/bai2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/btvnbai7/bt/bai3/bai2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/btvnbai8/bt/bai3/bai2/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/btvnbai7/bt/bai3/bai2/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/btvnbai8/bt/bai3/bai2/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/btvnbai7/bt/bai3/bai2/Square.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/btvnbai8/bt/bai3/bai2/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/btvnbai7/bt/bai3/bai2/Triangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/btvnbai8/bt/bai3/bai3/AudioPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/btvnbai7/bt/bai3/bai3/AudioPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/btvnbai8/bt/bai3/bai3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/btvnbai7/bt/bai3/bai3/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/btvnbai8/bt/bai3/bai3/VideoPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/btvnbai7/bt/bai3/bai3/VideoPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/btvnbai8/bt/bai3/bai3/playable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/btvnbai7/bt/bai3/bai3/playable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/btvnbai8/bt/bai3/bai4/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/btvnbai7/bt/bai3/bai4/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/btvnbai8/bt/bai3/bai4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/btvnbai7/bt/bai3/bai4/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/btvnbai8/bt/bai3/bai4/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/btvnbai7/bt/bai3/bai4/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/btvnbai8/bt/bai3/bai4/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/btvnbai7/bt/bai3/bai4/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/btvnbai9/bt/bai1/RandomList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/btvnbai8/bt/bai1/RandomList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/btvnbai9/bt/bai15/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/btvnbai8/bt/bai15/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/btvnbai9/bt/bai15/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/btvnbai8/bt/bai15/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/btvnbai9/bt/bai15/StudentManagement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/btvnbai8/bt/bai15/StudentManagement.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,7 +130,8 @@
       <workItem from="1699576416884" duration="7479000" />
       <workItem from="1699622572573" duration="4072000" />
       <workItem from="1699752376525" duration="89000" />
-      <workItem from="1699752489488" duration="6786000" />
+      <workItem from="1699752489488" duration="9425000" />
+      <workItem from="1700108025298" duration="9425000" />
     </task>
     <servers />
   </component>
